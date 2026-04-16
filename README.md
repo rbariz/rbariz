@@ -1,8 +1,8 @@
-# Hi, I'm Rachid 👋
+# 1. Rachid Bariz
 
-## 🧠 Senior Full-Stack .NET Architect
+## 1.1 Senior Full-Stack .NET Architect
 
-I design and build **real-world SaaS platforms** with a strong focus on:
+I design and build real-world SaaS platforms with a strong focus on:
 - product thinking
 - domain modeling
 - scalable architecture
@@ -10,38 +10,39 @@ I design and build **real-world SaaS platforms** with a strong focus on:
 
 ---
 
-## 🚀 Current Work
+## 2. Current Work
 
-### 🚗 SmartParking SaaS
+### 2.1 SmartParking SaaS
+
 Real-time parking reservation platform with:
 - availability constraints (no overbooking)
 - booking lifecycle management
 - payment handling
 - operator dashboard
 
-👉 https://github.com/rbariz/smartparking-saas
+Repository:
+https://github.com/rbariz/smartparking-saas
 
 ---
 
-## 🧩 Upcoming Projects
+## 3. Upcoming Projects
 
-### 🛠️ Fleet Maintenance Intelligence
-Predictive maintenance platform for vehicle fleets:
+### 3.1 Fleet Maintenance Intelligence
+
+Predictive maintenance platform:
 - maintenance scheduling
 - anomaly detection
 - operational dashboards
 
----
+### 3.2 Event Ticketing + Anti-Fraud
 
-### 🎟️ Event Ticketing + Anti-Fraud
 Ticketing platform with fraud prevention:
 - QR validation
 - duplicate detection
 - real-time control
 
----
+### 3.3 Kira Platform (Main Project)
 
-### 🏗️ Kira Platform (Main Project)
 Multi-tenant SaaS platform:
 - bookings
 - payments
@@ -50,7 +51,7 @@ Multi-tenant SaaS platform:
 
 ---
 
-## 🛠️ Tech Stack
+## 4. Technical Stack
 
 - .NET / ASP.NET Core
 - Blazor (Web / Server)
@@ -60,13 +61,33 @@ Multi-tenant SaaS platform:
 
 ---
 
-## 💡 Approach
+## 5. Approach
 
 I focus on building systems that are:
 - robust
 - maintainable
 - aligned with real business constraints
 
-Not just UI or CRUD, but complete products.
+This is not about UI or CRUD, but about designing complete products.
 
 ---
+
+## 6. Présentation (FR - résumé)
+
+Architecte logiciel .NET avec plus de 20 ans d’expérience.
+
+Je conçois des plateformes SaaS complètes couvrant :
+- backend (API)
+- frontend web (Blazor)
+- mobile (.NET MAUI)
+
+Approche orientée :
+- produit
+- modélisation métier (domain modeling)
+- architecture scalable
+
+---
+
+## 7. Contact
+
+LinkedIn: (to be added)
